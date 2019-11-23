@@ -1,5 +1,7 @@
 # Mi Card
 
+Mi Card is a personal business card app.
+
 ## What I learned
 
 * How to create Stateless Widgets
