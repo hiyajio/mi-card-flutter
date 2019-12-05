@@ -1,4 +1,4 @@
-# Mi Card :ticket: Flutter
+# Mi Card :card_index: Flutter
 
 Mi Card is a personal business card app.
 
